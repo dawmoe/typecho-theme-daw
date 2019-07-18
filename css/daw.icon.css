@@ -1,0 +1,49 @@
+.icon-all{
+	position:relative;
+	display:inline-block;
+	width:16px;
+	height:16px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	top:2px;
+	margin: 0 5px;
+}
+.icon-menu{
+    background-image: url(../img/icon/menu.svg);
+}
+.icon-share{
+	background-image: url(../img/icon/share.svg);
+}
+.icon-index{
+	background-image: url(../img/icon/index.svg);
+}
+.icon-search{
+    background-image: url(../img/icon/search.svg);
+}
+.icon-login{
+    background-image: url(../img/icon/login.svg);
+}
+.icon-bilibili{
+    background-image: url("../img/icon/bilibili.svg");
+}
+.icon-github{
+    background-image: url("../img/icon/github.svg");
+}
+.icon-facebook{
+    background-image: url("../img/icon/facebook.svg");
+}
+.icon-twitter{
+    background-image: url("../img/icon/twitter.svg");
+}
+.icon-googleplus{
+    background-image: url("../img/icon/googleplus.svg");
+}
+.icon-关于{
+    background-image: url(../img/icon/about.svg);
+}
+.icon-时间轴{
+    background-image: url(../img/icon/clock.svg);
+}
+.icon-友链{
+    background-image: url(../img/icon/link.svg);
+}
